@@ -43,5 +43,6 @@ public class Lightning01 : MonoBehaviour
     {
         Vector3 pos = transform.position;
         GameObject monster = Instantiate(initialmonster, pos, transform.rotation);
+        monster.transform.SetParent(this.transform.parent.gameObject.transform);
     }
 }
