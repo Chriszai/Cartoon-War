@@ -11,6 +11,8 @@ public class Monster01 : MonoBehaviour
     public int curHP;
     public SpriteRenderer sr;
     public Color originColor;
+    public GameObject initialCoin;
+    public GameObject initialMP;
     void Start()
     {
         curHP = HP;
@@ -32,6 +34,7 @@ public class Monster01 : MonoBehaviour
 
         if (curHP <= 0)
         {
+
             Destroy(this.gameObject);
         }
     }

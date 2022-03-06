@@ -17,6 +17,9 @@ public class Monster03 : MonoBehaviour
     public float startWaitTime;
     public SpriteRenderer sr;
     public Color originColor;
+    public GameObject initialCoin;
+    public GameObject initialMP;
+    public GameObject initialBlood;
     void Start()
     {
         Application.targetFrameRate = 60;
@@ -64,9 +67,11 @@ public class Monster03 : MonoBehaviour
     {
         curHP = curHP - damage;
         FlashColor();
-
+        Vector3 pos = transform.position;
+        GameObject blood = Instantiate(initialBlood, pos, transform.rotation);
         if (curHP <= 0)
         {
+            coinAndMP();
             Destroy(this.transform.parent.gameObject);
         }
     }
@@ -92,5 +97,19 @@ public class Monster03 : MonoBehaviour
     public void ResetColor()
     {
         sr.color = originColor;
+    }
+    public void coinAndMP()
+    {
+        for (var i = 1; i < Random.Range(1, 4); i++)
+        {
+            Vector3 pos = transform.position + new Vector3(i / 2f + 0.1f, 0, 0);
+            GameObject coin = Instantiate(initialCoin, pos, transform.rotation);
+        }
+        for (var i = 0; i < Random.Range(0, 4); i++)
+        {
+            Vector3 pos = transform.position + new Vector3(i / 5f + 0.3f, 0.2f, 0);
+            GameObject mp = Instantiate(initialMP, pos, transform.rotation);
+        }
+
     }
 }

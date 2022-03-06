@@ -1,0 +1,1624 @@
+fileFormatVersion: 2
+guid: 9edb1bda3429e2c43b1842ef3be9c557
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7954960696097354207
+    second: Monseters_0
+  - first:
+      213: -191440554519900680
+    second: Monseters_1
+  - first:
+      213: 539435048298082530
+    second: Monseters_2
+  - first:
+      213: -1106693839784855176
+    second: Monseters_3
+  - first:
+      213: 4288612792303946283
+    second: Monseters_4
+  - first:
+      213: 4224144912065130125
+    second: Monseters_5
+  - first:
+      213: 7665119039789892379
+    second: Monseters_6
+  - first:
+      213: -1092571546757258073
+    second: Monseters_7
+  - first:
+      213: 8682612365075422498
+    second: Monseters_8
+  - first:
+      213: 8762946306551166902
+    second: Monseters_9
+  - first:
+      213: -3944807740110791218
+    second: Monseters_10
+  - first:
+      213: 4004371193410757268
+    second: Monseters_11
+  - first:
+      213: -161720335979917780
+    second: Monseters_12
+  - first:
+      213: 2397807363149047860
+    second: Monseters_13
+  - first:
+      213: -773834482960212021
+    second: Monseters_14
+  - first:
+      213: 1262954084164897323
+    second: Monseters_15
+  - first:
+      213: 4708384364204752991
+    second: Monseters_16
+  - first:
+      213: 2335601254639907109
+    second: Monseters_17
+  - first:
+      213: -4378273321045941005
+    second: Monseters_18
+  - first:
+      213: 1544251792925234490
+    second: Monseters_19
+  - first:
+      213: -1806827136022551590
+    second: Monseters_20
+  - first:
+      213: 7043522277312702733
+    second: Monseters_21
+  - first:
+      213: 639816290576185918
+    second: Monseters_22
+  - first:
+      213: 3737036376995447942
+    second: Monseters_23
+  - first:
+      213: 750373951186517219
+    second: Monseters_24
+  - first:
+      213: -8144345937942359014
+    second: Monseters_25
+  - first:
+      213: -2279620345291584830
+    second: Monseters_26
+  - first:
+      213: 1820262881832764791
+    second: Monseters_27
+  - first:
+      213: -8232969612341999084
+    second: Monseters_28
+  - first:
+      213: -1339018362012716888
+    second: Monseters_29
+  - first:
+      213: -3903373222374152267
+    second: Monseters_30
+  - first:
+      213: -2018180071884049598
+    second: Monseters_31
+  - first:
+      213: -7086778298516618061
+    second: Monseters_32
+  - first:
+      213: -1444179909308692593
+    second: Monseters_33
+  - first:
+      213: 7168180317002103432
+    second: Monseters_34
+  - first:
+      213: -5894427368672024505
+    second: Monseters_35
+  - first:
+      213: -3000021863886550323
+    second: Monseters_36
+  - first:
+      213: -7233496851842332335
+    second: Monseters_37
+  - first:
+      213: 7837069461036911287
+    second: Monseters_38
+  - first:
+      213: -6943485854883379923
+    second: Monseters_39
+  - first:
+      213: 586643437849456150
+    second: Monseters_40
+  - first:
+      213: -3382557330715692972
+    second: Monseters_41
+  - first:
+      213: 7813168962792154369
+    second: Monseters_42
+  - first:
+      213: 615018031635091357
+    second: Monseters_43
+  - first:
+      213: -3189777174274632686
+    second: Monseters_44
+  - first:
+      213: -6040971369305910063
+    second: Monseters_45
+  - first:
+      213: -6945881540776044935
+    second: Monseters_46
+  - first:
+      213: -2939346268436169006
+    second: Monseters_47
+  - first:
+      213: -4406198299168181680
+    second: Monseters_48
+  - first:
+      213: 1033425001439566430
+    second: Monseters_49
+  - first:
+      213: -8069581138027548312
+    second: Monseters_50
+  - first:
+      213: 2467910299414105495
+    second: Monseters_51
+  - first:
+      213: 5644272760375961242
+    second: Monseters_52
+  - first:
+      213: -1445343276478666942
+    second: Monseters_53
+  - first:
+      213: -842677193790012913
+    second: Monseters_54
+  - first:
+      213: 6068494215544825923
+    second: Monseters_55
+  - first:
+      213: 4324388377162522082
+    second: Monseters_56
+  - first:
+      213: -3653802448692806911
+    second: Monseters_57
+  - first:
+      213: 3585801523680762979
+    second: Monseters_58
+  - first:
+      213: -4994209906474651141
+    second: Monseters_59
+  - first:
+      213: -2132965213430713403
+    second: Monseters_60
+  - first:
+      213: 6737824182660323103
+    second: Monseters_61
+  - first:
+      213: -8690703978114602383
+    second: Monseters_62
+  - first:
+      213: 5636155799757511571
+    second: Monseters_63
+  - first:
+      213: -4956363742210015976
+    second: Monseters_64
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Monseters_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 432
+        width: 18
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd1b31d1b92b56e60800000000000000
+      internalID: 7954960696097354207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monseters_1
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 410
+        width: 20
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fdcc3874ddd75df0800000000000000
+      internalID: -191440554519900680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monseters_2
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 410
+        width: 26
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e0f33181557c7700800000000000000
+      internalID: 539435048298082530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monseters_3
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 380
+        width: 15
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 879b284f0db34a0f0800000000000000
+      internalID: -1106693839784855176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monseters_4
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 383
+        width: 19
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2a0970dc96348b30800000000000000
+      internalID: 4288612792303946283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monseters_5
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 383
+        width: 19
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8e6a63ca6d2f9a30800000000000000
+      internalID: 4224144912065130125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monseters_6
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 383
+        width: 19
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1382c7b729ff5a60800000000000000
+      internalID: 7665119039789892379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monseters_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 358
+        width: 31
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22d1cbe81f5de7870800000000000000
+      internalID: 8682612365075422498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monseters_9
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 356
+        width: 27
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b7bdcbdc3d3c9970800000000000000
+      internalID: 8762946306551166902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monseters_10
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 357
+        width: 19
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecd1c77c24a3149c0800000000000000
+      internalID: -3944807740110791218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monseters_11
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 332
+        width: 30
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4922e046262629730800000000000000
+      internalID: 4004371193410757268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monseters_12
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 331
+        width: 30
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2ec5f4163471cdf0800000000000000
+      internalID: -161720335979917780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monseters_13
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 331
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 438a058b719b64120800000000000000
+      internalID: 2397807363149047860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monseters_14
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 335
+        width: 19
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcf553043a9c245f0800000000000000
+      internalID: -773834482960212021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monseters_15
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 324
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2a07425c0ae68110800000000000000
+      internalID: 1262954084164897323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monseters_16
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 305
+        width: 28
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f508d6612aa875140800000000000000
+      internalID: 4708384364204752991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monseters_17
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 298
+        width: 23
+        height: 24
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 521b4cf67f8b96020800000000000000
+      internalID: 2335601254639907109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monseters_18
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 309
+        width: 32
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f4ac719c9f3d33c0800000000000000
+      internalID: -4378273321045941005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monseters_19
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 306
+        width: 19
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a359119e2d84e6510800000000000000
+      internalID: 1544251792925234490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monseters_20
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 300
+        width: 20
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad3e6d2fa4cdce6e0800000000000000
+      internalID: -1806827136022551590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monseters_21
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 277
+        width: 27
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0926ca613e9fb160800000000000000
+      internalID: 7043522277312702733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monseters_22
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 267
+        width: 23
+        height: 25
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3a3d41c68511e800800000000000000
+      internalID: 639816290576185918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monseters_23
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 270
+        width: 23
+        height: 25
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 684c68309ce9cd330800000000000000
+      internalID: 3737036376995447942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monseters_24
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 279
+        width: 23
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ecbd29022dd96a00800000000000000
+      internalID: 750373951186517219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monseters_25
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 279
+        width: 36
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a14dc01258879fe80800000000000000
+      internalID: -8144345937942359014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monseters_26
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 266
+        width: 38
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ca4428bf592d50e0800000000000000
+      internalID: -2279620345291584830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monseters_27
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 249
+        width: 38
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7758875627fd24910800000000000000
+      internalID: 1820262881832764791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monseters_28
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 239
+        width: 27
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41a05c9f1cd9ebd80800000000000000
+      internalID: -8232969612341999084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monseters_29
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 239
+        width: 23
+        height: 25
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a0b188e4e9da6de0800000000000000
+      internalID: -1339018362012716888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monseters_30
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 249
+        width: 23
+        height: 24
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b7ed963cbe64d9c0800000000000000
+      internalID: -3903373222374152267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monseters_31
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 249
+        width: 23
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 243349adaebfdf3e0800000000000000
+      internalID: -2018180071884049598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monseters_32
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 249
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b448f25fa4b6ad90800000000000000
+      internalID: -7086778298516618061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monseters_33
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 203
+        width: 43
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8746e9260e35fbe0800000000000000
+      internalID: -1444179909308692593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monseters_34
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 193
+        width: 43
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88a7bd8050e7a7360800000000000000
+      internalID: 7168180317002103432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monseters_35
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 210
+        width: 31
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 748a6f7c989c23ea0800000000000000
+      internalID: -5894427368672024505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monseters_36
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 217
+        width: 25
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dca03a47208cd56d0800000000000000
+      internalID: -3000021863886550323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monseters_37
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 217
+        width: 16
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 159080e10f47d9b90800000000000000
+      internalID: -7233496851842332335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monseters_38
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 217
+        width: 28
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7baca29f62dd2cc60800000000000000
+      internalID: 7837069461036911287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monseters_39
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 159
+        width: 43
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d250ab43768c3af90800000000000000
+      internalID: -6943485854883379923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monseters_40
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 150
+        width: 43
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61ea4da391d242800800000000000000
+      internalID: 586643437849456150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monseters_41
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 181
+        width: 35
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4503c4e770ebe01d0800000000000000
+      internalID: -3382557330715692972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monseters_42
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 184
+        width: 25
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 105655596c3fd6c60800000000000000
+      internalID: 7813168962792154369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monseters_43
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 188
+        width: 25
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9fc11a24abf88800800000000000000
+      internalID: 615018031635091357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monseters_44
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 188
+        width: 28
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21416b66f82abb3d0800000000000000
+      internalID: -3189777174274632686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monseters_45
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 109
+        width: 38
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d4573acb882a2ca0800000000000000
+      internalID: -6040971369305910063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monseters_46
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 128
+        width: 35
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 976d91e1a854b9f90800000000000000
+      internalID: -6945881540776044935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monseters_47
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 157
+        width: 45
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2defdf564285537d0800000000000000
+      internalID: -2939346268436169006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monseters_48
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 155
+        width: 25
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0527620fdf90ad2c0800000000000000
+      internalID: -4406198299168181680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monseters_49
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 108
+        width: 43
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5a10d04096775e00800000000000000
+      internalID: 1033425001439566430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monseters_50
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 131
+        width: 37
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 861fcad95b6130090800000000000000
+      internalID: -8069581138027548312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monseters_51
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 121
+        width: 29
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79d0b1e7757cf3220800000000000000
+      internalID: 2467910299414105495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monseters_52
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 119
+        width: 28
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a966f91cb2c745e40800000000000000
+      internalID: 5644272760375961242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monseters_53
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 65
+        width: 45
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2476df2a2fb11fbe0800000000000000
+      internalID: -1445343276478666942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monseters_55
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 87
+        width: 46
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 348ef07365f973450800000000000000
+      internalID: 6068494215544825923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monseters_56
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 88
+        width: 45
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ed99934150530c30800000000000000
+      internalID: 4324388377162522082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monseters_57
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 87
+        width: 25
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10b763618061b4dc0800000000000000
+      internalID: -3653802448692806911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monseters_58
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 2
+        width: 60
+        height: 58
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36cdb06cc7353c130800000000000000
+      internalID: 3585801523680762979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monseters_59
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 43
+        width: 43
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf177deec8001bab0800000000000000
+      internalID: -4994209906474651141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monseters_62
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 11
+        width: 7
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17aa768f6ca646780800000000000000
+      internalID: -8690703978114602383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monseters_63
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 27
+        width: 31
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39bdd4796d5a73e40800000000000000
+      internalID: 5636155799757511571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monseters_64
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 0
+        width: 33
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81d32f7bf65773bb0800000000000000
+      internalID: -4956363742210015976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monseters_54
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 45
+        width: 42
+        height: 41
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f02c2d39e853e44f0800000000000000
+      internalID: -842677193790012913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monseters_60
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 3
+        width: 41
+        height: 39
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c37237707f2662e0800000000000000
+      internalID: -2132965213430713403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

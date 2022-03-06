@@ -19,6 +19,15 @@ public class Monster04 : MonoBehaviour
     public Color originColor;
     public Transform playerTransform;
     public float radius;
+    public GameObject initialbullet;
+    public GameObject initialCoin;
+    public GameObject initialMP;
+    public GameObject initialBlood;
+    public AudioClip Sound;
+    private AudioSource source;
+
+    private float interval = 4f;
+    private float count = 4f;
     void Start()
     {
         Application.targetFrameRate = 60;
@@ -27,17 +36,19 @@ public class Monster04 : MonoBehaviour
         sr = GetComponent<SpriteRenderer>();
         originColor = sr.color;
         playerTransform = GameObject.FindGameObjectWithTag("Player").GetComponent<Transform>();
+        source = GetComponent<AudioSource>();
     }
 
     // Update is called once per frame
     void Update()
     {
+        // movement
         if (playerTransform != null)
         {
             float distance = (transform.position - playerTransform.position).sqrMagnitude;
             if (distance < radius)
             {
-                var cross = Vector3.Cross(movePos.position, transform.position);
+                var cross = Vector3.Cross(playerTransform.position, transform.position);
                 if (cross.z > 0)
                 {
 
@@ -53,6 +64,17 @@ public class Monster04 : MonoBehaviour
             {
                 movement();
             }
+        }
+
+
+        if (count <= interval)
+        {
+            count += Time.deltaTime;
+        }
+        if (count >= interval)
+        {
+            count = 0;
+            fire();
         }
 
     }
@@ -89,9 +111,12 @@ public class Monster04 : MonoBehaviour
     {
         curHP = curHP - damage;
         FlashColor();
+        Vector3 pos = transform.position;
+        GameObject blood = Instantiate(initialBlood, pos, transform.rotation);
 
         if (curHP <= 0)
         {
+            coinAndMP();
             Destroy(this.transform.parent.gameObject);
         }
     }
@@ -104,10 +129,10 @@ public class Monster04 : MonoBehaviour
 
     private void OnTriggerEnter2D(Collider2D collision)
     {
-        if (collision.tag.Equals("Player"))
-        {
-            collision.SendMessage("BeAttack", attack);
-        }
+        // if (collision.tag.Equals("Player"))
+        // {
+        //     collision.SendMessage("BeAttack", attack);
+        // }
     }
     public void FlashColor()
     {
@@ -118,4 +143,28 @@ public class Monster04 : MonoBehaviour
     {
         sr.color = originColor;
     }
+
+    public void fire()
+    {
+        Vector3 pos = transform.position;
+        GameObject bullet = Instantiate(initialbullet, pos, transform.rotation);
+        source.PlayOneShot(Sound);
+    }
+    public void coinAndMP()
+    {
+        for (var i = 1; i < Random.Range(1, 4); i++)
+        {
+            Vector3 pos = transform.position + new Vector3(i / 5f + 0.1f, 0, 0);
+            GameObject coin = Instantiate(initialCoin, pos, transform.rotation);
+        }
+        for (var i = 0; i < Random.Range(0, 4); i++)
+        {
+            Vector3 pos = transform.position + new Vector3(i / 5f + 0.3f, 0.2f, 0);
+            GameObject mp = Instantiate(initialMP, pos, transform.rotation);
+        }
+
+    }
+
 }
+
+

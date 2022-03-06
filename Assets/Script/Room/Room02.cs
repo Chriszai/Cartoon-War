@@ -10,6 +10,10 @@ public class Room02 : MonoBehaviour
     {
         foreach (Transform child in transform)
         {
+            if (child.tag == "box")
+            {
+                child.gameObject.SetActive(false);
+            }
             if (child.tag == "monster")
             {
                 child.gameObject.SetActive(false);
@@ -37,6 +41,12 @@ public class Room02 : MonoBehaviour
                 {
 
                     child.gameObject.SetActive(false);
+
+                }
+                if (child.tag == "box")
+                {
+
+                    child.gameObject.SetActive(true);
 
                 }
 

@@ -9,6 +9,10 @@ TagManager:
   - bullet
   - door_0
   - door_1
+  - transmitter
+  - weapon
+  - prop
+  - box
   layers:
   - Default
   - TransparentFX
@@ -18,7 +22,7 @@ TagManager:
   - UI
   - 
   - 
-  - 
+  - Wall
   - 
   - 
   - 
@@ -46,6 +50,9 @@ TagManager:
   - name: Default
     uniqueID: 0
     locked: 0
-  - name: "\u5341"
-    uniqueID: 2823195863
+  - name: Weapon
+    uniqueID: 2212657227
+    locked: 0
+  - name: Background
+    uniqueID: 225922387
     locked: 0

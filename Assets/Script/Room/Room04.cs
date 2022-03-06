@@ -10,6 +10,16 @@ public class Room04 : MonoBehaviour
     {
         foreach (Transform child in transform)
         {
+            if (child.tag == "box")
+            {
+
+                child.gameObject.SetActive(false);
+
+            }
+            if (child.tag == "monster")
+            {
+                child.gameObject.SetActive(false);
+            }
             if (child.tag == "door_0")
             {
                 child.gameObject.SetActive(false);
@@ -36,6 +46,18 @@ public class Room04 : MonoBehaviour
                     child.gameObject.SetActive(false);
 
                 }
+                if (child.tag == "transmitter")
+                {
+
+                    child.gameObject.SetActive(true);
+
+                }
+                if (child.tag == "box")
+                {
+
+                    child.gameObject.SetActive(true);
+
+                }
 
             }
         }
@@ -43,7 +65,7 @@ public class Room04 : MonoBehaviour
     }
     public void OnTriggerEnter2D(Collider2D collision)
     {
-         if (collision.tag.Equals("Player"))
+        if (collision.tag.Equals("Player"))
         {
             foreach (Transform child in transform)
             {

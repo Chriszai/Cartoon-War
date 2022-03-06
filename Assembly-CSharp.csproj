@@ -55,22 +55,72 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+     <Compile Include="Assets\Script\Boss_0\boss0Attack3.cs" />
      <Compile Include="Assets\Script\Room\Room04.cs" />
      <Compile Include="Assets\Script\Room\Room01.cs" />
+     <Compile Include="Assets\Script\Weapons\laserGun.cs" />
      <Compile Include="Assets\Script\Player.cs" />
-     <Compile Include="Assets\Script\Fire1\Weapon1.cs" />
+     <Compile Include="Assets\Script\Weapons\Weapon1.cs" />
+     <Compile Include="Assets\Script\Boss_2\Boss2Atk4.cs" />
+     <Compile Include="Assets\Script\Boss_2\Boss2Atk1.cs" />
+     <Compile Include="Assets\Script\Bullets\EnemyBullet06.cs" />
+     <Compile Include="Assets\Script\Boss_1\mine.cs" />
+     <Compile Include="Assets\Script\Boss_1\cap2.cs" />
      <Compile Include="Assets\Script\practice.cs" />
      <Compile Include="Assets\Script\Room\Room5.cs" />
+     <Compile Include="Assets\Script\Boss_0\attackAim_0.cs" />
      <Compile Include="Assets\Script\Room\Room02.cs" />
-     <Compile Include="Assets\Effect01.cs" />
+     <Compile Include="Assets\Script\Weapons\shotgun.cs" />
+     <Compile Include="Assets\Script\Boss_0\Boom_0.cs" />
+     <Compile Include="Assets\Script\Bullets\DartBullet.cs" />
+     <Compile Include="Assets\Script\Chapter02\cap.cs" />
+     <Compile Include="Assets\Script\Bullets\fireBullet.cs" />
+     <Compile Include="Assets\Script\Bullets\Laser.cs" />
+     <Compile Include="Assets\Script\Weapons\WeaponNum.cs" />
+     <Compile Include="Assets\Script\Chapter02\Monster05.cs" />
+     <Compile Include="Assets\Script\Props\TreasureBox.cs" />
+     <Compile Include="Assets\Script\UI\BloodEffect.cs" />
+     <Compile Include="Assets\Script\MeshRendererSortingEditor.cs" />
+     <Compile Include="Assets\Script\Boss_0\boss0Attack2.cs" />
+     <Compile Include="Assets\Script\Boss_2\Atk4Effect.cs" />
+     <Compile Include="Assets\Script\Boss_0\missile.cs" />
+     <Compile Include="Assets\Script\Chapter03\boss_1.cs" />
+     <Compile Include="Assets\Script\Chapter03\boss_2.cs" />
+     <Compile Include="Assets\Script\Chapter02\Monster06.cs" />
+     <Compile Include="Assets\Script\Room\RoomInterface.cs" />
+     <Compile Include="Assets\Script\Props\Store.cs" />
+     <Compile Include="Assets\Script\Props\MPBottle.cs" />
+     <Compile Include="Assets\Script\localControl.cs" />
+     <Compile Include="Assets\Script\UI\coin.cs" />
+     <Compile Include="Assets\Script\Boss_2\Boss2Atk3.cs" />
+     <Compile Include="Assets\Script\Bullets\Bullet02.cs" />
      <Compile Include="Assets\Script\Chapter01\Monster03.cs" />
+     <Compile Include="Assets\Script\Weapons\Dart.cs" />
      <Compile Include="Assets\Script\Room\Room03.cs" />
+     <Compile Include="Assets\Script\Props\coinInterface.cs" />
+     <Compile Include="Assets\Script\Bullets\shotgunBullet.cs" />
+     <Compile Include="Assets\Script\UI\Attribute.cs" />
      <Compile Include="Assets\Script\juese.cs" />
-     <Compile Include="Assets\Script\Fire1\bullet01.cs" />
+     <Compile Include="Assets\Script\Bullets\bullet01.cs" />
      <Compile Include="Assets\Script\Chapter01\Monster01.cs" />
+     <Compile Include="Assets\Script\Props\HPBottle.cs" />
+     <Compile Include="Assets\Script\Bullets\AWMBullet.cs" />
+     <Compile Include="Assets\Script\Weapons\AWM.cs" />
+     <Compile Include="Assets\Script\Bullets\EnemyBullet02.cs" />
+     <Compile Include="Assets\Script\Chapter02\nearAttack.cs" />
+     <Compile Include="Assets\Script\globalControl.cs" />
      <Compile Include="Assets\Script\Chapter01\Monster04.cs" />
-     <Compile Include="Assets\Script\Lightning01.cs" />
-     <Compile Include="Assets\Script\Fire1\Effect1.cs" />
+     <Compile Include="Assets\Script\Boss_1\fireAttack.cs" />
+     <Compile Include="Assets\Script\Weapons\flamethrower.cs" />
+     <Compile Include="Assets\Script\Boss_1\groundFire.cs" />
+     <Compile Include="Assets\Script\Room\NextLevelDoor.cs" />
+     <Compile Include="Assets\Script\Boss_2\Boss2Atk2.cs" />
+     <Compile Include="Assets\Script\Chapter02\devil.cs" />
+     <Compile Include="Assets\Script\Bullets\EnemyBullet01.cs" />
+     <Compile Include="Assets\Script\Weapons\Weapon2.cs" />
+     <Compile Include="Assets\Script\Props\Lightning01.cs" />
+     <Compile Include="Assets\Script\Props\box_0.cs" />
+     <Compile Include="Assets\Script\Bullets\Effect1.cs" />
      <Compile Include="Assets\Script\hello.cs" />
      <Compile Include="Assets\Script\Chapter01\Monster02.cs" />
  <Reference Include="Unity.Timeline.Editor">
@@ -342,6 +392,9 @@
  </Reference>
  <Reference Include="UnityEngine.XRModule">
  <HintPath>C:/Program Files/Unity/Editor/Data/Managed/UnityEngine/UnityEngine.XRModule.dll</HintPath>
+ </Reference>
+ <Reference Include="Pathfinding.Ionic.Zip.Reduced">
+ <HintPath>E:/project/Cartoon War/Assets/AstarPathfindingProject/Plugins/DotNetZip/Pathfinding.Ionic.Zip.Reduced.dll</HintPath>
  </Reference>
  <Reference Include="netstandard">
  <HintPath>C:/Program Files/Unity/Editor/Data/NetStandard/ref/2.0.0/netstandard.dll</HintPath>
@@ -688,6 +741,20 @@
  <Reference Include="System.Xml.Serialization">
  <HintPath>C:/Program Files/Unity/Editor/Data/NetStandard/compat/2.0.0/shims/netfx/System.Xml.Serialization.dll</HintPath>
  </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="AstarPathfindingProject.csproj">
+      <Project>{4C0D7EDA-822B-0319-9DBA-AEC0411F85F7}</Project>
+      <Name>AstarPathfindingProject</Name>
+    </ProjectReference>
+    <ProjectReference Include="PackageToolsEditor.csproj">
+      <Project>{C5B6AFCB-4F20-9AD3-92B2-C16589E72870}</Project>
+      <Name>PackageToolsEditor</Name>
+    </ProjectReference>
+    <ProjectReference Include="AstarPathfindingProjectEditor.csproj">
+      <Project>{B73DE778-160E-914E-AA47-BF6D4BD4F37B}</Project>
+      <Name>AstarPathfindingProjectEditor</Name>
+    </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it.

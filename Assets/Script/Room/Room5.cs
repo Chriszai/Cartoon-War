@@ -43,7 +43,7 @@ public class Room5 : MonoBehaviour
     }
     public void OnTriggerEnter2D(Collider2D collision)
     {
-        if (collision.tag.Equals("Player") && children.Length > 5)
+        if (collision.tag.Equals("Player") && children.Length > 9)
         {
 
             Invoke("CloseDoor", 1);//延时调用
